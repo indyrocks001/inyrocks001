@@ -1,9 +1,19 @@
-<h1>Hi, I'm Amir! </h1>
+<h1>Hi, I'm Amir 👋</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Tier 3 VoIP Engineer at OneCloud, building hands-on cybersecurity skills through self-directed labs and industry certifications.
 
-- [Active Directory Home Lab](https://github.com/indyrocks001/LABURL)
-- Network Security
+<h2>✅ Completed Projects</h2>
+
+- [Active Directory Home Lab](https://github.com/indyrocks001/ActiveDirectoryLab) — a self-built Active Directory environment for practicing configuration, hardening, and security testing.
+- [Detection Lab](https://github.com/indyrocks001/Detection-Lab) — a controlled environment for simulating attacks and practicing SIEM-based log analysis and detection.
+
+<h2>🗺️ Learning Roadmap</h2>
+
+Working through a structured cybersecurity project roadmap covering the areas below, one build at a time — check the repos above for what's finished so far.
+
+<details>
+<summary><b>Network Security</b></summary>
+
 1. Set Up a Home Lab
 2. Build and Configure a Firewall
 3. Network Traffic Analysis with Wireshark
@@ -11,118 +21,138 @@
 5. VPN Configuration and Management
 6. Secure Network Design
 7. Wireless Network Security
+</details>
 
-Application Security
- 8. Conduct a Secure Code Review
- 9. Web Application Security Testing
- 10. Develop a Secure Web Application
- 11. Implement OAuth in a Web Application
- 12. SQL Injection Testing and Mitigation
- 13. Prevent Cross-Site Scripting (XSS)
+<details>
+<summary><b>Application Security</b></summary>
 
-Ethical Hacking and Penetration Testing
- 14. Vulnerability Assessment on a Network
- 15. Set Up a Penetration Testing Lab
- 16. Develop and Test Exploits
- 17. Simulate Social Engineering Attacks
- 18. Password Cracking Techniques
- 19. Phishing Simulation Campaign
+8. Conduct a Secure Code Review
+9. Web Application Security Testing
+10. Develop a Secure Web Application
+11. Implement OAuth in a Web Application
+12. SQL Injection Testing and Mitigation
+13. Prevent Cross-Site Scripting (XSS)
+</details>
 
-Cloud Security
- 20. Secure AWS/GCP/Azure Deployment
- 21. Cloud Security Audit
- 22. Container Security with Docker and Kubernetes
- 23. Manage Cloud IAM Policies
+<details>
+<summary><b>Ethical Hacking and Penetration Testing</b></summary>
 
-Cyber Threat Intelligence
- 24. Develop a Threat Hunting Strategy
- 25. Analyze Malware Behavior
- 26. Write a Cyber Threat Intelligence Report.
-Incident Response and Forensics
- 27. Create an Incident Response Plan
- 28. Conduct a Digital Forensics Investigation
- 29. Perform Log Analysis for Intrusions
+14. Vulnerability Assessment on a Network
+15. Set Up a Penetration Testing Lab
+16. Develop and Test Exploits
+17. Simulate Social Engineering Attacks
+18. Password Cracking Techniques
+19. Phishing Simulation Campaign
+</details>
 
-Security Operations
- 30. Implement a SIEM System
- 31. Automate Incident Response with Scripts
- 32. Develop Security Policies and Procedures
+<details>
+<summary><b>Cloud Security</b></summary>
 
-Compliance and Governance
- 33. Conduct a Risk Assessment
- 34. Create a Security Awareness Training Program
- 35. Perform a Compliance Audit
+20. Secure AWS/GCP/Azure Deployment
+21. Cloud Security Audit
+22. Container Security with Docker and Kubernetes
+23. Manage Cloud IAM Policies
+</details>
 
-Cryptography
- 36. Implement Encryption Algorithms
- 37. Analyze Cryptographic Protocols
+<details>
+<summary><b>Cyber Threat Intelligence</b></summary>
 
-Security Tools Development
- 38. Develop a Custom Security Tool
- 39. Customize SIEM Rules and Alerts
+24. Develop a Threat Hunting Strategy
+25. Analyze Malware Behavior
+26. Write a Cyber Threat Intelligence Report
+</details>
 
-IoT Security
- 40. Secure IoT Devices
- 41. Conduct IoT Penetration Testing
+<details>
+<summary><b>Incident Response and Forensics</b></summary>
 
-Privacy
- 42. Conduct a Data Privacy Assessment
- 43. Perform a Privacy Impact Assessment
+27. Create an Incident Response Plan
+28. Conduct a Digital Forensics Investigation
+29. Perform Log Analysis for Intrusions
+</details>
 
-Research and Writing
- 44. Write a Whitepaper on Cybersecurity
- 45. Maintain a Cybersecurity Blog
+<details>
+<summary><b>Security Operations</b></summary>
 
-Hands-On Challenges
- 46. Participate in CTF Competitions
- 47. Engage in Bug Bounty Programs
+30. Implement a SIEM System
+31. Automate Incident Response with Scripts
+32. Develop Security Policies and Procedures
+</details>
 
-Blockchain Security
- 48. Explore Blockchain Security Issues
- 49. Develop a Blockchain Application with Security in Mind
+<details>
+<summary><b>Compliance and Governance</b></summary>
 
-Community Involvement
- 50. Create or Join a Cybersecurity Mentorship Program
+33. Conduct a Risk Assessment
+34. Create a Security Awareness Training Program
+35. Perform a Compliance Audit
+</details>
 
-<h2> 📺 Popular YouTube Videos </h2>
+<details>
+<summary><b>Cryptography</b></summary>
 
--[Tutorial Active Directory Home Lab](https://www.youtube.com/watch)
+36. Implement Encryption Algorithms
+37. Analyze Cryptographic Protocols
+</details>
 
-<h2>Certifications</h2>
-- [CCNA](https://www.certification.com)
+<details>
+<summary><b>Security Tools Development</b></summary>
 
+38. Develop a Custom Security Tool
+39. Customize SIEM Rules and Alerts
+</details>
 
+<details>
+<summary><b>IoT Security</b></summary>
 
+40. Secure IoT Devices
+41. Conduct IoT Penetration Testing
+</details>
 
+<details>
+<summary><b>Privacy</b></summary>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+42. Conduct a Data Privacy Assessment
+43. Perform a Privacy Impact Assessment
+</details>
 
-<h2> 🤳 Connect with me:</h2>
+<details>
+<summary><b>Research and Writing</b></summary>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+44. Write a Whitepaper on Cybersecurity
+45. Maintain a Cybersecurity Blog
+</details>
 
+<details>
+<summary><b>Hands-On Challenges</b></summary>
 
-[youtube]: https://www.youtube.com/channel/UCxrzJZINXXzKr2YKKwoVK0A
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/AmirJalil
+46. Participate in CTF Competitions
+47. Engage in Bug Bounty Programs
+</details>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary><b>Blockchain Security</b></summary>
 
-Here are some ideas to get you started:
+48. Explore Blockchain Security Issues
+49. Develop a Blockchain Application with Security in Mind
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>Community Involvement</b></summary>
+
+50. Create or Join a Cybersecurity Mentorship Program
+</details>
+
+<h2>📜 Certifications</h2>
+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA Cybersecurity+
+- Fortinet Certified Associate in Cybersecurity
+- Fortinet NSE 4 – FortiOS 7.6 Administrator
+- Cisco CCNA – ICND2
+- Splunk Core Certified User
+
+*(Full certification list with dates on [my resume/LinkedIn].)*
+
+<h2>🤳 Connect with me</h2>
+
+[LinkedIn](https://linkedin.com/in/amirjalil)
